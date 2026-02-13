@@ -45,6 +45,8 @@ D is the primary support and co-life; we get devotion and a few specifics (top s
 
 ## 5b. **Unemployment arc: learning to live together (~10k words)**
 
+**What actually happened:** Layoff (boss lied to your face). Six months monk mode: AI + software dev + writing the book. Then job search (first interview: PDF/pen-and-paper nightmare; second: friend referred you, you asked for accommodation, they hired you — best job of your life, move the needle every day).
+
 **Where it goes:** After the managed-out year (or after severance when that role ended). This is the *missing middle*: not "20 days and we had a new job," but a stretch of unemployment where the system learned to actually live together, AI bridged memory gaps, and time eased the disadvantage of blindness. It leads into (or reframes) the current "for now we're okay" / cabin / pizza-grill ending.
 
 **Themes:**
@@ -56,16 +58,16 @@ D is the primary support and co-life; we get devotion and a few specifics (top s
 
 | # | Beat | POV / voice | Approx. words | Notes |
 |---|------|-------------|---------------|--------|
-| 1 | **The end of the managed-out job** | Addie or Twi | 600–1k | Last day or last conversation. Not dramatic—just over. The relief and the terror. |
-| 2 | **First week without work** | Addie | 800–1.2k | No structure. Who gets up? Who applies? Who dissociates? The fear of "we have to find a job" vs. "we have nothing to do but be us." |
-| 3 | **AI as external memory (first time it really worked)** | Any | 1–1.5k | Specific tool or workflow: e.g., daily log, "what did I do today?" prompt, shared notes that survive switches. The weirdness of reading your own life in third person. |
-| 4 | **A day (or week) where we actually cooperated** | Potts or Addie | 1.2–1.8k | One concrete day: who did what, how they handed off, one conflict and how it got resolved. "We learned to live together" in scene. |
-| 5 | **Blindness: time, not cure** | Max or Twi | 1–1.5k | No big event—just the accumulation. Cane routine, VoiceOver default, asking for help without shame (or with less). "Time cured my disadvantage" = adaptation, not healing. |
-| 6 | **D during unemployment** | Addie or Sam | 800–1.2k | How D responded: fear, patience, boundaries. "We're not okay but we're not dying." One conversation or ritual. |
-| 7 | **The job search that didn't save us** | Addie | 600–1k | Ten resumes a day, or not. The market, the cane, the gaps. Maybe one interview that went wrong (or right and still didn't land). |
-| 8 | **What we did instead of work** | Multiple | 1–1.5k | Music, kids, arcade, meditation, nothing. The boredom and the gift of it. "We had time." |
-| 9 | **Turning point: we're not going back to who we were** | Twi or Lilith | 600–1k | A moment (or a slow dawning) where the system accepts that the old career self is gone and that living together is the job now. |
-| 10 | **Bridge to "for now"** | Addie | 400–600 | Short. Unemployment ends (new job, or choice to stop chasing the old kind). The captain's wheel, the cabin, the grill—this is what came after. |
+| 1 | **The lie** | — | 800–1.2k | Layoff: boss lied to your face. What they said, what actually happened. The moment you knew. Betrayal as the break. |
+| 2 | **The first week** | Addie | 800–1.2k | Job is gone. No structure. Who gets up, who applies, who dissociates. Sets up the void the monk mode will fill. |
+| 3 | **Monk mode** | — | 1.5–2.5k | Six months: learning AI, software dev, writing the book. Like a monk with a mission. Concrete details: what you studied, when you wrote, how the days looked. |
+| 4 | **AI as external memory** | — | 1–1.5k | Inside that period: AI fixed our memory gaps. Specific tool or workflow. The weirdness of reading your own life in third person. |
+| 5 | **Learning to live together** | Potts or Addie | 1.2–1.8k | One concrete day or week: who did what, handoffs, one conflict resolved. "We learned to live together" in scene. |
+| 6 | **Blindness: time, not cure** | Max or Twi | 1–1.5k | No big event—accumulation. Cane, VoiceOver, asking for help. Time cured my disadvantage = adaptation, not healing. |
+| 7 | **D during the six months** | Addie or Sam | 800–1.2k | How D responded: fear, patience, boundaries. "We're not okay but we're not dying." One conversation or ritual. |
+| 8 | **First interview** | Addie (or whoever fronted) | 600–1k | Document at start—no prep, no warning. Four-page 12pt PDF. Pen and paper only. Your nightmare. |
+| 9 | **Second interview** | — | 800–1.2k | Old friend put you up. You said you couldn't see well enough for a test in normal time. They interviewed you, hired you. Best job; move the needle every day. |
+| 10 | **Turning point / Bridge to "for now"** | Addie or Twi | 600–1k | We're not going back. Living together (and the book, the learning) is the job now. Captain's wheel, cabin, grill—what came after. |
 
 **Total:** ~8.5k–12k words depending on how deep you go in each beat. Can live as a new chapter (e.g. **"Unemployment"** or **"The year we had nothing to do"**) in *It Pays to Belong* or as a separate scene file between the managed-out / severance beat and the current "perfect job" / Rehoboth / cabin / grill material (which you may want to reframe as *after* this period).
 

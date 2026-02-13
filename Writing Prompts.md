@@ -100,54 +100,54 @@ Use this as a checklist while drafting. Each prompt includes target scene, word 
 
 *After the managed-out year. New chapter or new scene file: "Unemployment" / "The year we had nothing to do."*
 
-### 5b.1 The end of the managed-out job
-- **POV:** Addie or Twi | **Words:** 600–1k
-- **Prompt:** Last day or last conversation. Not dramatic—just over. The relief and the terror.
+### 5b.1 The lie
+- **Words:** 800–1.2k
+- **Prompt:** Write the layoff. Your boss lied to your face about what was happening. What did they say? What actually happened? The moment you knew it was a lie. The betrayal as the break between "managed-out job" and "nothing." Relief and terror both.
 - [ ]
 
-### 5b.2 First week without work
+### 5b.2 The first week
 - **POV:** Addie | **Words:** 800–1.2k
-- **Prompt:** No structure. Who gets up? Who applies? Who dissociates? The fear of "we have to find a job" vs. "we have nothing to do but be us."
+- **Prompt:** The job is gone. No structure. Who gets up? Who applies? Who dissociates? The fear of "we have to find a job" vs "we have nothing to do but be us." Set the void that the next six months will fill.
 - [ ]
 
-### 5b.3 AI as external memory (first time it really worked)
-- **POV:** Any | **Words:** 1–1.5k
-- **Prompt:** Specific tool or workflow: daily log, "what did I do today?" prompt, shared notes that survive switches. The weirdness of reading your own life in third person. AI fixed our memory gaps.
+### 5b.3 Monk mode
+- **Words:** 1.5–2.5k
+- **Prompt:** You threw yourself into learning AI and software dev for six months. Like a monk with a mission, dialed in. You were also writing this book. Give concrete details: what you studied (AI, dev), when you wrote, how the days looked. One or two specific moments — a late night, a breakthrough, a routine. Not vague; this is the named phase.
 - [ ]
 
-### 5b.4 A day (or week) where we actually cooperated
+### 5b.4 AI as external memory
+- **Words:** 1–1.5k
+- **Prompt:** In that same six months, AI fixed our memory gaps. Pick one specific tool or workflow: daily log, "what did I do today?" prompt, shared notes that survive switches. What did you use? How did it feel to have a record that outlasted amnesia — the weirdness of reading your own life in third person?
+- [ ]
+
+### 5b.5 Learning to live together
 - **POV:** Potts or Addie | **Words:** 1.2–1.8k
-- **Prompt:** One concrete day: who did what, how they handed off, one conflict and how it got resolved. "We learned to live together" in scene.
+- **Prompt:** In the six months the only "project" besides AI, dev, and the book was being a system. One concrete day or week: who did what, how you handed off, one conflict and how it got resolved. "We learned to live together" in scene.
 - [ ]
 
-### 5b.5 Blindness: time, not cure
+### 5b.6 Blindness: time, not cure
 - **POV:** Max or Twi | **Words:** 1–1.5k
-- **Prompt:** No big event—the accumulation. Cane routine, VoiceOver default, asking for help without shame (or with less). "Time cured my disadvantage" = adaptation, not healing.
+- **Prompt:** No big event — the accumulation. Cane routine, VoiceOver default, asking for help without shame (or with less). "Time cured my disadvantage" = adaptation, not healing. You had time to integrate it instead of performing abled at work.
 - [ ]
 
-### 5b.6 D during unemployment
+### 5b.7 D during the six months
 - **POV:** Addie or Sam | **Words:** 800–1.2k
-- **Prompt:** How D responded: fear, patience, boundaries. "We're not okay but we're not dying." One conversation or ritual.
+- **Prompt:** How did D respond? Fear, patience, boundaries. "We're not okay but we're not dying." One conversation or ritual.
 - [ ]
 
-### 5b.7 The job search that didn't save us
-- **POV:** Addie | **Words:** 600–1k
-- **Prompt:** Ten resumes a day, or not. The market, the cane, the gaps. Maybe one interview that went wrong (or right and still didn't land).
+### 5b.8 First interview
+- **POV:** Addie (or whoever fronted) | **Words:** 600–1k
+- **Prompt:** You were handed a document the moment the interview began. No prep, no warning. A four-page, 12-point PDF of context. Your nightmare. And you were only allowed pen and paper — your worst enemy. Write the scene: what they handed you, what you could or couldn't do, how it felt.
 - [ ]
 
-### 5b.8 What we did instead of work
-- **POV:** Multiple | **Words:** 1–1.5k
-- **Prompt:** Music, kids, arcade, meditation, nothing. The boredom and the gift of it. "We had time."
+### 5b.9 Second interview
+- **Words:** 800–1.2k
+- **Prompt:** An old friend put you up for the position. You told them you couldn't see well enough to do a test in normal time limits. They interviewed you, hired you. You're now in the best job of your life; you move the needle every day. Write it: the ask, the response, the hire, and what "best job / move the needle" means now.
 - [ ]
 
-### 5b.9 Turning point: we're not going back to who we were
-- **POV:** Twi or Lilith | **Words:** 600–1k
-- **Prompt:** A moment (or slow dawning) where the system accepts that the old career self is gone and that living together is the job now.
-- [ ]
-
-### 5b.10 Bridge to "for now"
-- **POV:** Addie | **Words:** 400–600
-- **Prompt:** Short. Unemployment ends (new job, or choice to stop chasing the old kind). The captain's wheel, the cabin, the grill—this is what came after.
+### 5b.10 Turning point / Bridge to "for now"
+- **POV:** Addie or Twi | **Words:** 600–1k
+- **Prompt:** We're not going back to who we were. Living together (and the book, and the learning) is the job now. Unemployment ended. The captain's wheel, the cabin, the grill — this is what came after.
 - [ ]
 
 ---
