@@ -9,9 +9,9 @@ or something much more colorful like that
 
 Picture the timeline of your life. (Go ahead. I'm inviting you to enter the narrative.) Now, imagine a specific year in your youth. I bet you, given a little prompting, you could recall one memory, embarrassing or otherwise, for every year of school you experienced.
 
-Now imagine a long, blurry blind spot smearing any context of your memories, and you start to approach how our memory is organized. I have no idea when we are, only that I was laying on my bedroom floor and praying for a miracle.
+Now imagine a long, blurry blind spot smearing any context of your memories, and you start to approach how our memory is organized. I have no idea when we are, only that I was lying on my bedroom floor and praying for a miracle.
 
-I'm a guy still, outwardly. In top shape, so this had to be, uh, high school at some point? Laying in front of me are computer parts my dad picked up on the cheap when I asked for a computer. "If you can build one out of this, it's yours," he said, and I spent a year making that happen. With all my fingers crossed I turned on the rickety, old Celeron 200 tower and hoped that the backup to my hard drive would actually power on--
+I'm a guy still, outwardly. In top shape, so this had to be, uh, high school at some point? Lying in front of me are computer parts my dad picked up on the cheap when I asked for a computer. "If you can build one out of this, it's yours," he said, and I spent a year making that happen. With all my fingers crossed I turned on the rickety, old Celeron 200 tower and hoped that the backup to my hard drive would actually power on--
 
 A post beep. Success! I jumped from the floor and pumped my fist. Next, the install CD. Here's hoping the drive works--
 
@@ -134,9 +134,9 @@ When I was younger, I remember this one extremely specific sensation that felt b
 
 It started with this dizziness and intense pressure that built up behind my eyes. Then, explosive relief; the mind drained its contents out of my ears. I felt myself floating up, foot over head. Then the world clicked back into focus and I'd feel calm and refreshed.
 
-It would happen when I was out with family, going between classes at school, on the wrestling mat, anywhere. It's appearance was unpredictable and frequent, even I had trouble remembering what it felt like.
+It would happen when I was out with family, going between classes at school, on the wrestling mat, anywhere. Its appearance was unpredictable and frequent, even I had trouble remembering what it felt like.
 
-(Always struck me as strange that I couldn't remember it. Something that rivaled orgasm for "most pleasurable thing you can do" should have been a huge signpost in our memory, but every time me tried to remember it would slip out of my fingers.)
+(Always struck me as strange that I couldn't remember it. Something that rivaled orgasm for "most pleasurable thing you can do" should have been a huge signpost in our memory, but every time I tried to remember it would slip out of my fingers.)
 
 I couldn't force it to happen. I couldn't predict when, and I clung desperately to any memory of the experience in hopes of finding a pattern. But the result was always the same: a vague recollection of the "pop," relief, and a strong urge to let it go.
 I told everyone about it, thinking it was a normal, everyday experience. If I could "pop" my brain, after all, it makes sense to assume others can do it! But everyone looked at me like an alien.
@@ -153,7 +153,7 @@ I had forgotten about "brain popping" for years, if I'm being honest. It was imp
 
 This is a long way to say this:
 
-If I had access to someone who could have told me that brain ""pop"" was a switch, and that the reason I couldn't remember it was that we had amnesia and DID, our recovery would have gone so much smoother!"
+If I had access to someone who could have told me that brain "pop" was a switch, and that the reason I couldn't remember it was that we had amnesia and DID, our recovery would have gone so much smoother!"
 
 ## Addie, 2003
 
@@ -217,7 +217,7 @@ We chatted about the novel I was writing at the time. (It was a miserable thing,
 
 "Yeah. We're splitting the cost in thirds."
 
-"Good. Let me know if there's anything i can do."
+"Good. Let me know if there's anything I can do."
 
 I shut the chat window and went back to setting up my store model Dell Inspiron for the next four years, digging through my files, reminiscing about the stories behind me, and hoping that one day I'd write enough garbage to build a mountain to that promised land of "published author."
 
@@ -239,7 +239,7 @@ She groaned. “I’d help, but you know I’m disabled and then the divorce hap
 
 “Can’t believe he screwed things up this much, though.”
 
-“I know. it’s bullshit all around.”
+“I know. It’s bullshit all around.”
 
 “Love you.”
 
@@ -300,7 +300,7 @@ I don't know why but when she said it I knew, right there and then, that this wa
 
 I am 18 fucking years old, four months away from never having to listen to these people ever again, and they’re still rooting through my stuff. But today, we were going to talk about suicide, and I wasn’t going to hold back.
 
-Who knows? maybe they’d surprise me with decency in the face of mental illness.
+Who knows? Maybe they’d surprise me with decency in the face of mental illness.
 
 I swung the office chair around to face her. “I’m fine," I said. "I've been wanting this since I was 7. It’s normal for me.”
 
@@ -383,7 +383,7 @@ I could feel her - *feel her! - *pulling away from the embrace so that she coul
 
 She looked around. "It's not safe here for me, Twi. That’s your job.”
 
-I wanted to ask how she knew my name but she shushed me with an outstretched finger, as if a fairy godmother had just scolded Cindarella for how excited she got about the pumpkin chariot.
+I wanted to ask how she knew my name but she shushed me with an outstretched finger, as if a fairy godmother had just scolded Cinderella for how excited she got about the pumpkin chariot.
 
 ## Addie, 2001
 
@@ -393,7 +393,7 @@ It wasn’t enough to communicate that I had done wrong. No, there needed to be 
 
 I can’t remember exactly what I’m in trouble for this time. Maybe it’s the fact that I reported my wrestling friends for proselytizing me for hours on end at a wrestling camp, including trying to keep me up late so that I could accept Christ as my savior. I brought it up to them hoping that they’d take my side, that they’d see that the experience was bad for me, and want to help me avoid that in the future.
 
-But in reality, they also wanted me to accept Christ as my savior. In fact, the fact that I hadn’t came as a total surprise to them, even though I didn’t spend much time in church growing up.
+But in reality, they also wanted me to accept Christ as my savior. In fact, the fact that I hadn’t come as a total surprise to them, even though I didn’t spend much time in church growing up.
 
 “Have you done the research?”
 
@@ -497,7 +497,7 @@ Why not? Because the next week, while my dad and stepmom were upstairs watching 
 
 I think I’m 16 fucking years old and I just wrote my first annotated bibliography voluntarily.
 
-“We’ll look at it later.
+“We’ll look at it later."
 
 “Per our agreement, this concludes our conversation about religion.”
 
@@ -513,13 +513,13 @@ I couldn’t show them everything then, but I tried to help where I could. I’m
 
 ## Sam, 2024
 
-Right, uh, memoir stuff. Hi! The others asked me to contribute to this project so I wrote a this. I'm Samantha. And Misty. And a whole host of other girls who are sexual assault survivors that banded together. You may have seen them contributing to the memoir project in other parts of the narrative. A lot of us came together in the last system shake-up to form a single alter.
+Right, uh, memoir stuff. Hi! The others asked me to contribute to this project so I wrote this. I'm Samantha. And Misty. And a whole host of other girls who are sexual assault survivors that banded together. You may have seen them contributing to the memoir project in other parts of the narrative. A lot of us came together in the last system shake-up to form a single alter.
 
 That's what we call 'em, at least. Shakeups. We'll hit some life milestone, or process some deep trauma, and our internal world gets thrown into a tizzy. What comes out the other end is... still me, technically. Still "us," still a collection of alters. But our skills, our demeanor, our everything else? You might as well roll a fresh set of alters and toss out what you thought you knew.
 
 You have to understand that there's around 400 distinct parts inside this brain at all times, swimming around in an amnesia soup because of things that were done to us as children. When we grow, parts of our selves move to other parts of ourselves, taking with them their memories and their skills. The resulting alters are pastiches and we have to figure out who can do what all over again.
 
-I can't tell you how exhausting it is.  To not know what day it is, what time it is, what I was just doing two seconds ago. To find half-done tasks someone inside started but didn't finish. To excusing yourself from a party you're enjoying because some kid inside wants to hump the air and scream into a pillow. To being treated like a _literal fucking child_ because you are temporarily not able to make decisions for yourself.
+I can't tell you how exhausting it is. To not know what day it is, what time it is, what I was just doing two seconds ago. To find half-done tasks someone inside started but didn't finish. To excuse yourself from a party you're enjoying because some kid inside wants to hump the air and scream into a pillow. To be treated like a _literal fucking child_ because you are temporarily not able to make decisions for yourself.
 
 So why wouldn't we try to pretend that things are better? Why would we want to be connected to who we really are inside, when that person is just a pile of miserable little alters?
 

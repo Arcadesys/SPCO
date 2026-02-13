@@ -1,0 +1,51 @@
+# Compile a single-file draft by concatenating scene files in the order defined in noveltools.yaml.
+# Run on push to main or manually (Actions → Compile draft → Run workflow).
+# Download the compiled draft from the run's Artifacts.
+
+name: Compile draft
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile draft from noveltools.yaml
+        run: |
+          python3 << 'PY'
+          import os
+          import yaml
+
+          with open("noveltools.yaml") as f:
+              data = yaml.safe_load(f)
+
+          out_path = "draft.md"
+          missing = []
+
+          with open(out_path, "w") as out:
+              for ch in data.get("chapters", []):
+                  folder = ch.get("folder", ".")
+                  for scene in ch.get("scenes", []):
+                      path = os.path.join(folder, scene) if folder != "." else scene
+                      if os.path.isfile(path):
+                          with open(path) as inf:
+                              out.write(inf.read())
+                          out.write("\n\n")
+                      else:
+                          missing.append(path)
+
+          if missing:
+              print("Missing scene files (skipped):", ", ".join(missing))
+          print("Wrote", out_path)
+          PY
+
+      - name: Upload draft artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: draft
+          path: draft.md
